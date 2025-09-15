@@ -1,6 +1,6 @@
-# Jujutsu Kaisen Fan Site
+# Jujutsu Kaisen
 
-Bem-vindo ao **Jujutsu Kaisen Fan Site**.
+Bem-vindo ao **Jujutsu Kaisen**.
 
 ## 🖥️ Funcionalidades
 
